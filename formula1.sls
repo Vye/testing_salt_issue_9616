@@ -1,4 +1,4 @@
-/introduced_bad_file_name_formula1:
+/goodfile:
   file.managed:
     - source:
       - salt://content
